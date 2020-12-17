@@ -38,9 +38,6 @@ To practice using Mongoose and embedded and referenced documents, we will design
 
 - Save and console.log all the objects and their children in the console - you should see all objects when `node server.js` is executed.
 
-#### Starter code
-
-No starter code for this app - create it from scratch!
 
 #### Deliverable
 
